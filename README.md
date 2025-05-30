@@ -1,5 +1,5 @@
 Hi, I am kajal Bondre
-I am intrested in It field
+I am intrested in IT field
  I’m currently learning paython  full stack devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
