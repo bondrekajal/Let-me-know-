@@ -1,12 +1,14 @@
-Hi, I am kajal Bondre
-I am intrested in IT field
- I’m currently learning paython  full stack devlopment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Bio
 
-<!---
-bondrekajal/bondrekajal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently a student pursuing expertise in Python Full Stack Development. My technical skill set includes HTML, CSS, JavaScript, Bootstrap, React, Python, and DBMS. I am passionate about web development and am currently building a website using HTML, CSS, Bootstrap, and JavaScript to enhance my practical skills.
+
+I am eager to work with organizations where I can learn new skills, grow my abilities, and contribute to organizational goals as well as my personal development.
+
+Social Links:
+
+Email: kajalbondre583@gmail.com
+LinkedIn: Kajal Bondre
+
+Hobbies:
+
+Reading
