@@ -7,7 +7,9 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 Social Links:
 
 Email: kajalbondre583@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/kajal-bondre-2310b6273
+
 Github: https://github.com/bondrekajal
 
 Hobbies:
