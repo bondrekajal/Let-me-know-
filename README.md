@@ -19,7 +19,7 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 - [Coffee Shop Website](https://bondrekajal.github.io/Cofee_Shop/)
 
   
-Social Links:
+## 📫 Social Links:
 
 - Email: kajalbondre583@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kajal-bondre-2310b6273
