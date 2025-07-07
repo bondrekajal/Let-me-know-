@@ -15,7 +15,7 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 - Python (Backend)
 
 ## 📸 My Projects
--00000000000000000
+
 - [Coffee Shop Website](https://bondrekajal.github.io/Cofee_Shop/)
 
   
