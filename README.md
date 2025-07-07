@@ -27,4 +27,6 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 
 ## 🎯 Hobbies:
 
-Reading
+- 📚 Reading mystery novels
+- 🎧 Listening to music
+- 💻 Learning to code new tech
